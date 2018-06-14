@@ -1,4 +1,6 @@
 .memory > .card {
+    min-height: 40px;
+    min-width: 50px;
     font-size: 2em;
     flex: 1 1 calc(100% / 6 - 0.4em);
     outline: 0.08em solid silver;
